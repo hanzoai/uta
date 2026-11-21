@@ -2,6 +2,8 @@
 
 # Uta
 
+[![Open in Hanzo](https://hanzo.app/badges/open-in-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/uta&ref=main&action=open) [![Edit with Hanzo](https://hanzo.app/badges/edit-with-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/uta&ref=main&action=edit) [![Deploy with Hanzo](https://hanzo.app/badges/deploy-with-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/uta&ref=main&action=deploy)
+
 Uta (`uta`, `uta-1`) is Hanzo's music and score generation model, served from Hanzo's inference fabric at `api.hanzo.ai` under the canonical id **`uta`** (open foundation: **`zen-musician`** / [`zenlm/zen-musician`](https://github.com/zenlm/zen-musician)). It composes multi-movement original songs, adaptive cinematic soundtracks, cue-driven scores, and mixable multitrack stems.
 
 ```bash
